@@ -1,5 +1,4 @@
-Plugin Polski do trybu MandzukuoSMP Albo poprostu survivalu jest na Serwerze MandzukuoMC..falixsrv.me Jak chcesz tam zagrac to dodaj ip  MandzukuoMC..falixsrv.me  jak nie dziala to 
-https://falixnodes.net/startserver tam wpisac ip serwera ale tylko mandzukuoMc a plugin dodaje
+Plugin Polski do trybu MandzukuoSMP Albo poprostu survivalu jest na Serwerze MandzukuoMC..falixsrv.me plugin dodaje
 to narazie w 1.0 
 - Własny system sklepu (`/m_sell`, `/m_kup`) z oddzielną ekonomią dla świata MandzukuoSMP.  
 - Konfiguracja świata, w którym działa główny sklep:  
