@@ -1,0 +1,30 @@
+name: MandzukuoSMP
+version: 1.0
+main: com.mandzukuo.MandzukuoSMP
+api-version: 1.20
+author: TwojaNazwa
+description: Plugin dla trybu MandzukuoSMP – sklep, ekonomia, zadania i więcej.
+
+commands:
+  sklep:
+    description: Otwiera główne GUI sklepu
+  sklep_reload:
+    description: Przeładowuje konfigurację sklepu
+  gornik:
+    description: Pokazuje punkty górnicze
+  smp_gornik:
+    description: Otwiera menu nagród górnika
+  smp_gornik_add:
+    description: Dodaje punkty górnicze graczowi
+    permission: mandzukuo.admin
+  smp_gornik_usun:
+    description: Usuwa punkty górnicze graczowi
+    permission: mandzukuo.admin
+  topki_gornictwa:
+    description: Pokazuje TOP 10 górników
+  pay:
+    description: Przelewa pieniądze innemu graczowi
+  czas_sklep:
+    description: Otwiera sklep za czas gry
+  zadania:
+    description: Otwiera GUI z zadaniami
